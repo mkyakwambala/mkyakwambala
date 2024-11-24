@@ -2,7 +2,6 @@
 - 👀 I’m interested in building web applications with Javascript
 - 🌱 I’m currently learning foundations with HTML and CSS
 - 💞️ I’m looking to collaborate on full stack javascript projects
-- 📫 How to reach me ...
 - ⚡ Fun fact: I am a cloud operations enginner from Uganda
 
 <!---
